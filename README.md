@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/gta-6-blocker.png" alt="GTA 6 Blocker - Bloqueador de spoilers de GTA VI" width="100%">
+</p>
+
 # GTA 6 BLOCKER
 
 Extensão de navegador que oculta conteúdos possivelmente relacionados ao GTA VI, incluindo textos, cartões de vídeo/publicação, thumbnails e imagens com contexto textual correspondente.

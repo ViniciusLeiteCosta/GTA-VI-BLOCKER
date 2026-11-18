@@ -4,7 +4,7 @@
 
 # GTA 6 BLOCKER
 
-A browser extension that hides content potentially related to GTA VI, including text, video/post cards, thumbnails, and images with matching textual context.
+A browser AI vibe coded extension that hides content potentially related to GTA VI, including text, video/post cards, thumbnails, and images with matching textual context.
 
 ## Supported Browsers
 

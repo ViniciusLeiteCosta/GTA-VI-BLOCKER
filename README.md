@@ -47,9 +47,7 @@ It is not possible to guarantee that absolutely all spoilers will be blocked in 
 
 # Português
 
-\<p align="center">
-&#x20; \<a href="#gta-6-blocker">🇺🇸 English\</a> | \<strong>🇧🇷 Português\</strong>
-\</p>
+
 
 Extensão de navegador que oculta conteúdos possivelmente relacionados ao GTA VI, incluindo textos, cartões de vídeo/publicação, thumbnails e imagens com contexto textual correspondente.
 
